@@ -2,3 +2,4 @@
 name: manoj
 sec : "a"
 prog: bca
+socse
